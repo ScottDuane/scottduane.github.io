@@ -873,9 +873,16 @@ footer a:hover {
   }
 }
 
+#resume-button, #email-button {
+  font-size: 18px;
+}
+
+.profile-pic {
+  margin-bottom: 18px;
+  margin-left: 16px;
+}
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) { }
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
-
